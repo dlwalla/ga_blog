@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This is the title to the new post"
+title: "This is the title to the new post-yes"
 ---
 
 Some content
