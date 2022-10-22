@@ -1,0 +1,6 @@
+---
+layout: post
+title: "This is the title to the new post"
+---
+
+Some content
