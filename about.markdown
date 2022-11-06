@@ -16,3 +16,5 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+Last but not least check out my new site, in progress here [WallachPortfolio](http://dlwallach.com/desoslide-master/doc/demo%202.8.html)
