@@ -4,4 +4,4 @@ title: New Page
 permalink: /new/
 ---
 
-New page content
+New page content wohoo
